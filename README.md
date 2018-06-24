@@ -1,10 +1,6 @@
 # Psychic-Game_KAB
 Boot Camp UCDSAC20180507FSF Homework #3
 
-# Psychic Game
-This repository is for Homework #3 for UCD Coding Bootcamp.
-The due date was Saturday, June 23, 2018.
-
 ## About
 This game was built with JavaScript.
 
